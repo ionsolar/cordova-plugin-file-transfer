@@ -16,8 +16,8 @@
     "test": "npm run lint",
     "lint": "eslint ."
   },
-  "repository": "github:apache/cordova-plugin-file-transfer",
-  "bugs": "https://github.com/apache/cordova-plugin-file-transfer/issues",
+  "repository": "github:ionsolar/cordova-plugin-file-transfer",
+  "bugs": "https://github.com/ionsolar/cordova-plugin-file-transfer/issues",
   "keywords": [
     "cordova",
     "file",
